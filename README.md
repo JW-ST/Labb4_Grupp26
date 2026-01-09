@@ -1,9 +1,11 @@
 # Labb4_Grupp26
 
-# Detta respository innehåller labb4 och labbrapport samt programmeringslogg som pdf 
+# Detta respository innehåller Labb4, Labb4Tests, labbrapport samt programmeringslogg som pdf 
 
-- labb4 = C#project
+- Labb4 = C#project
+- Labb4Tests = NUnit-tester
 - Labbrapport
 - Programmeringslogg
+
 
   // Jenny Wesström 
